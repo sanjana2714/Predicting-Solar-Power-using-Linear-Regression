@@ -36,7 +36,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 ## Usage
 1. Clone the repository:
    sh
-   git clone https://github.com/charan300804/Predicting-Solar-Power-Output-using-Linear-Regression.git
+   git clone https://github.com/sanjana2714/Predicting-Solar-Power-using-Linear-Regression.git
    
 2. Navigate to the project directory:
    sh
@@ -57,6 +57,6 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 
 ## Contributors
 
-
+https://github.com/sanjana2714
 ## License
 This project is open-source and available under the MIT License.
